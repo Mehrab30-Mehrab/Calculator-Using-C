@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&lines=%F0%9F%A7%AE+Calculator+Booting...;12+%2B+5+%3D+17;Answer+Confirmed.;Thanks+for+Visiting!" alt="Animated Calculator Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7C52C&center=true&vCenter=true&width=600&lines=%F0%9F%A7%AE+Calculator+Booting...;12+%2B+5+%3D+17;Answer+Confirmed.;Thanks+for+Visiting!" alt="Animated Calculator Header" />
 </p>
 
 ## 🧮⚡ Mehrab's Calculator in C 🚀
